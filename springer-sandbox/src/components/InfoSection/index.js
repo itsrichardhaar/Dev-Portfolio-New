@@ -68,6 +68,7 @@ const InfoSection = ({
             <Column2>
               <SubtitleTwo darkText={darkText}>{descriptionTwo}</SubtitleTwo>
               <SubtitleThree darkText={darkText}>{descriptionThree}</SubtitleThree>
+             
             </Column2>
           </InfoRow>
         </InfoWrapper>

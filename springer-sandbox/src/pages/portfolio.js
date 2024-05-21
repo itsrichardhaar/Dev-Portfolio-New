@@ -27,12 +27,10 @@ const Portfolio = () => {
     <>
         <Sidebar isOpen={isOpen} toggle={toggle} />
         <Navbar toggle={toggle} />
-        
+
        <Footer />
     </>
   );
 };
-
-
 
 export default Portfolio;

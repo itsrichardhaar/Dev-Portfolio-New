@@ -53,7 +53,7 @@ export const homeObjOne = {
       "We create custom design solutions to help our clients succeed. From small business startups to worldwide corporations, we bring passion and experience to our client's work. Explore our services and client work to see if Springer Studios is the right fit for your business.",
     buttonLabel: 'Start Now',
     imgStart: false,
-    img: require('../../images/svg-3.svg'),
+    img: require('../../images/Richard-H.png'),
     alt: 'our services',
     dark: true,
     primary: true,
