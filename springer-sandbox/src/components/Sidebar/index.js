@@ -25,7 +25,7 @@ const Sidebar = ({isOpen, toggle}) => {
                 spy={true}
                 exact='true'
                 offset={-80}>
-                    Our Work
+                    About
                     </SidebarLink>
                 <SidebarLink 
                 to="services" 
@@ -35,7 +35,7 @@ const Sidebar = ({isOpen, toggle}) => {
                 spy={true}
                 exact='true'
                 offset={-80}
-                >Services
+                >Experience
                     </SidebarLink>
                 <SidebarLink 
                 to="our-work" 
@@ -45,7 +45,7 @@ const Sidebar = ({isOpen, toggle}) => {
                 spy={true}
                 exact='true'
                 offset={-80}
-                >Our Team
+                >Projects
                     </SidebarLink>
                 <SidebarLink 
                 to="our-team" 
@@ -55,7 +55,7 @@ const Sidebar = ({isOpen, toggle}) => {
                 spy={true}
                 exact='true'
                 offset={-80}
-                >Our Team
+                >Contact
                 </SidebarLink>
                 <SidebarLink to="contact" onClick={toggle}>Contact</SidebarLink>
             </SidebarMenu>
