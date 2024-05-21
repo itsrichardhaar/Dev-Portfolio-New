@@ -60,7 +60,7 @@ const Sidebar = ({isOpen, toggle}) => {
                 <SidebarLink to="contact" onClick={toggle}>Contact</SidebarLink>
             </SidebarMenu>
             <SideBtnWrap>
-                <SidebarRoute to="/email">Email Us</SidebarRoute>
+                <SidebarRoute to="/email">Email Me</SidebarRoute>
             </SideBtnWrap>
         </SidebarWrapper>
     </SidebarContainer>
